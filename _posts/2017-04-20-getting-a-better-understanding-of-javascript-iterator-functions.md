@@ -1,8 +1,8 @@
 
 ----
- -layout: post
- -title: Getting a Better Understanding of JavaScript Iterator Functions
- ----
+layout: post
+title: Getting a Better Understanding of JavaScript Iterator Functions
+----
 
 Lately, I've worked a lot with AngularJS and JavaScript in general. While developing AngularJS applications, you'll inevitably need to work with JSON responses from an API that returns a list of objects. Now, depending on the implementation, the list could return a simple array or a key-value-pair, and you'll need to iterate over the list. If you're like me, you may feel led to use JavaScript's `forEach()` function or maybe Angular's `angular.forEach()` function. Both are similar in what they do; although, how you use them is a little different. Say you have an array of categories like this:
 
