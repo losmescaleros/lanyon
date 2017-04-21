@@ -1,8 +1,7 @@
-
-----
+---
 layout: post
 title: AngularJS and Bootstrap Modals the Wrong Way
-----
+---
 
 Bootstrap and AngularJS are great frameworks, and it makes sense that people would want to use them together. But there are a number of ways to go astray when using them together for the first time. One example is when using Bootstrap's modal. 
 
