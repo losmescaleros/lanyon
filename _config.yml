@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:               LosMescaleros
-tagline:             'A Blog'
-description:         'A software developer'
+title:               losmescaleros
+tagline:             'Another software blog thing'
+description:         'Rolling my head on the keyboard until something good happens'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
